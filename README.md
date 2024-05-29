@@ -1,6 +1,6 @@
 # Auto Har
 
-**This is a old auto har code i fixed, u can edit this source code whenever u want**
+**This is a old Triplehooked auto har code i fixed, u can edit this source code whenever u want**
 
 # Info
 ![image](https://github.com/Terminatedzz/Roblox-Auto-Har/assets/131369904/a3b14f8f-08aa-4a11-817a-ad2dc11bd505)
